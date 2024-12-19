@@ -1,0 +1,14 @@
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.deps.json
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.runtimeconfig.json
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.dll
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.pdb
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.AssemblyReference.cache
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfoInputs.cache
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfo.cs
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.dll
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\refint\Hospital.Repositories.dll
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.pdb
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.genruntimeconfig.cache
+C:\Coding\Practice Projects\Hospital\Hospital\Hospital.Repositories\obj\Debug\net8.0\ref\Hospital.Repositories.dll
